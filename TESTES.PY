@@ -1,0 +1,1 @@
+sinal=input("Digite o sinal")
